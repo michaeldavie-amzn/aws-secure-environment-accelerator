@@ -18,7 +18,6 @@
         "aws-marketplace:UpdatePrivateMarketplaceProfile",
         "lightsail:*", 
         "sumerian:*",
-        "cloud9:*", 
         "gamelift:*", 
         "appflow:*",
         "iq:*"
